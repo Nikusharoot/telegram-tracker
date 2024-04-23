@@ -5,3 +5,4 @@ tqdm==4.64.1
 networkx==3.0
 matplotlib==3.6.3
 python-louvain==0.16
+numpy>=1.21.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
